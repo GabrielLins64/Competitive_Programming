@@ -1,7 +1,7 @@
 <b>Repository for Competitive Programming</b>
 
 This repository contains competitive programming
-techniques and troubleshooting.
+techniques and solutions.
 
 References:
 
